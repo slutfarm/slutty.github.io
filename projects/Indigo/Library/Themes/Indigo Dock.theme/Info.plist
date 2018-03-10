@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CalendarIconDateSettings</key>
+	<dict>
+		<key>FontSize</key>
+		<integer>34</integer>
+		<key>ShadowBlurRadius</key>
+		<integer>0</integer>
+		<key>ShadowColor</key>
+		<string>#FFFFFF</string>
+		<key>ShadowXoffset</key>
+		<real>0.0</real>
+		<key>ShadowYoffset</key>
+		<real>0.0</real>
+		<key>TextColor</key>
+		<string>#8A97A5</string>
+		<key>TextYoffset</key>
+		<real>5</real>
+	</dict>
+	<key>CalendarIconDateStyle</key>
+	<string>
+		font-family: HelveticaNeue-Light; 
+		font-size: 34px;
+			padding-top: 5px;
+		color: #8A97A5;
+	</string>
+	<key>CalendarIconDaySettings</key>
+	<dict>
+		<key>FontSize</key>
+		<integer>0</integer>
+		<key>ShadowBlurRadius</key>
+		<integer>0</integer>
+		<key>ShadowColor</key>
+		<string>#FFFFFF</string>
+		<key>ShadowXoffset</key>
+		<real>0.0</real>
+		<key>ShadowYoffset</key>
+		<real>0.0</real>
+		<key>TextColor</key>
+		<string>#FFFFFF</string>
+	</dict>
+	<key>CalendarIconDayStyle</key>
+	<string>	
+		position:absolute;
+		font-family: HelveticaNeue-Light; 
+		width: auto;
+		height: auto;
+		padding-top: 6px;
+		font-size: 0px;
+		font-weight:100;
+		text-align: center;
+		color: #5E5E5E;
+	</string>
+	<key>IB-MaskIcons</key>
+	<true/>
+	<key>PackageName</key>
+	<string>indigo iOS 10</string>
+</dict>
+</plist>

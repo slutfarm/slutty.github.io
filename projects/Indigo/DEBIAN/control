@@ -1,0 +1,10 @@
+Package: indigo.slutty
+Name: Indigo iOS 10
+Depends: com.anemonetheming.anemone
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Indigo, and Indigo iOS 9 combined to make indigo iOS 10. With a fixed Discord icon now.
+Maintainer: Colin <jack.l.walker@icloud.com>
+Author: Colin <colin.johnston.the1@gmail.com>
+Section: Themes
+Depiction: http://www.indigo10.weebly.com/
